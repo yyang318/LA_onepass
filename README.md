@@ -1,4 +1,4 @@
-This is the code of manuscript "A Light-weight, Effective and Efficient Model for Label Aggregation in Crowdsourcing" submitted to ACM Transactions on Knowledge Discovery from Data.
+This is the code of paper "A Light-weight, Effective and Efficient Model for Label Aggregation in Crowdsourcing" published on ACM Transactions on Knowledge Discovery from Data.
 
 ------
 
